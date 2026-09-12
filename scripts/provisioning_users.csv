@@ -1,0 +1,51 @@
+FirstName,LastName,Department,Title,Status
+Lucas,Rodríguez,Sales,Sales Representative,Joiner
+Victoria,García,Sales,Account Executive,Leaver
+Joaquín,Rojas,IT,System Administrator,Joiner
+Felipe,Ruiz,Sales,Specialist,Joiner
+María,Cardozo,IT,Specialist,Leaver
+Santino,González,IT,Analyst,Mover
+Dante,Benítez,IT,System Administrator,Mover
+Martina,Díaz,HR,Specialist,Mover
+Renata,Flores,IT,Analyst,Mover
+Lucas,Mendoza,IT,Analyst,Mover
+Ignacio,Álvarez,Sales,Account Executive,Joiner
+Victoria,Acosta,IT,System Administrator,Joiner
+Florencia,Benítez,HR,Analyst,Joiner
+Ignacio,Pereira,IT,Analyst,Mover
+Valentina,Romero,Sales,Specialist,Joiner
+Catalina,Ortiz,HR,Analyst,Leaver
+Victoria,Herrera,IT,System Administrator,Joiner
+Milagros,Silva,HR,Specialist,Joiner
+Milagros,Torres,Sales,Sales Representative,Mover
+Valeria,Sánchez,HR,Specialist,Joiner
+Agustina,Rojas,Sales,Sales Representative,Mover
+Victoria,García,Sales,Sales Representative,Joiner
+Benjamín,Pérez,IT,Analyst,Joiner
+Carla,López,HR,Analyst,Leaver
+Valeria,Flores,Sales,Account Executive,Leaver
+Lucas,Benítez,Sales,Sales Representative,Joiner
+Julieta,Rojas,IT,Specialist,Joiner
+Agustina,Sosa,Sales,Account Executive,Leaver
+Facundo,Álvarez,IT,Specialist,Joiner
+Lucía,Herrera,HR,Specialist,Joiner
+Ignacio,Medina,IT,System Administrator,Joiner
+Joaquín,Díaz,Sales,Sales Representative,Joiner
+Camila,García,Sales,Sales Representative,Leaver
+Catalina,Flores,Sales,Specialist,Mover
+Felipe,Álvarez,Sales,Sales Representative,Mover
+Ignacio,Morales,Sales,Sales Representative,Joiner
+Bautista,Ruiz,IT,Specialist,Joiner
+Victoria,Ruiz,IT,System Administrator,Leaver
+Benjamín,Ruiz,IT,System Administrator,Mover
+Valentina,Ramírez,HR,Analyst,Joiner
+Camila,Castillo,IT,Specialist,Mover
+María,Martínez,IT,Analyst,Mover
+Renata,Rojas,HR,Analyst,Leaver
+Benjamín,Martínez,IT,Specialist,Leaver
+Dante,Martínez,IT,System Administrator,Joiner
+Gonzalo,García,HR,Specialist,Mover
+Valeria,Ramírez,IT,Specialist,Leaver
+Martina,Fernández,Sales,Specialist,Joiner
+Joaquín,Ramírez,IT,Specialist,Mover
+Esteban,Torres,HR,Specialist,Joiner

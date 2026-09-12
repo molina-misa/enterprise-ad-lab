@@ -31,7 +31,7 @@ realm discover "$DOMAIN"
 
 echo "[4/6] Uniendo la máquina al dominio $DOMAIN..."
 echo "Introduce las credenciales del Administrador de Dominio:"
-realm join --verbose --user=Administrator "$DOMAIN"
+realm join --verbose --user=Administrador "$DOMAIN"
 
 echo "[5/6] Configurando creación automática de directorios home para usuarios de AD..."
 pam-auth-update --enable mkhomedir
