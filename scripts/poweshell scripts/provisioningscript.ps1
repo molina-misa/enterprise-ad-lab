@@ -1,6 +1,6 @@
 Import-Module ActiveDirectory
 
-$Users = Import-Csv -Path "F:\Templates\provisioning_users.csv"
+$Users = Import-Csv -Path "../data/users.csv"
 
 $DefaultPassword = ConvertTo-SecureString "P@ssw0rd123!" -AsPlainText -Force
 
