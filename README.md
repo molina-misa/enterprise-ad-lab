@@ -311,6 +311,16 @@ The scripts are intended for educational use and should be reviewed before being
 
 ---
 
+## Configuration Checklist
+- [x] Active Directory installed and promoted
+- [x] DNS configured with forwarders and reverse lookup zone
+- [x] pfSense configured as gateway and firewall
+- [x] Dynamic DHCP configured in pfSense
+- [x] Windows and Linux hosts joined to the domain
+- [x] PowerShell and Bash automation scripts implemented
+
+--- 
+
 ## Testing and Validation
 
 The following tests were performed to validate the lab.
@@ -349,6 +359,12 @@ user@agmimo.local
 
 - Verified RDP connectivity using an authorized IT Department account
 - Confirmed that remote access was limited to the intended security group
+
+---
+
+## Updates
+
+- September 15th: pfSense configured as DHCP and DNS Resolver. PowerShell scipt to create new users in AD. 
 
 ---
 
@@ -421,6 +437,14 @@ enterprise-ad-lab/
     ├── PowerShell scripts
     └── Bash scripts
 ```
+
+---
+
+## Related Posts
+
+-[Active Directory + pfSense + Linux Lab](https://lnkd.in/p/dpf8rJxR)
+-[PowerShell automation for AD users](https://lnkd.in/p/d9Qgv6DX)
+-[pfSense as DHCP and DNS](https://lnkd.in/p/dyGSMf9x)
 
 ---
 
