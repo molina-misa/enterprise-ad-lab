@@ -39,7 +39,7 @@ Microsoft Entra Connect is enabled and identity synchronization is currently wor
 | `AzureArcEndpoint` | `gw.arc.azure.com`, `login.microsoftonline.com`, `management.azure.com`, `servicebus.windows.net`, `blob.core.windows.net`, `monitor.azure.com`, `ods.opinsights.azure.com`, `westus3.login.microsoft.com`, `gbl.his.arc.azure.com` |
 | `AzureArcGateway` | `<my-gateway>.gw.arc.azure.com` |
 
-pfSense permits outbound HTTPS (TCP port 443) from the Windows Server to the configured Azure Arc endpoints and to the Azure Arc Gateway. Other outbound Internet traffic remains blocked. The gateway FQDN shown above is a placeholder; replace it with the actual FQDN only if it is appropriate to publish it in this repository.
+pfSense permits outbound HTTPS (TCP port 443) from the Windows Server to the configured Azure Arc endpoints and to the Azure Arc Gateway. Other outbound Internet traffic remains blocked. 
 
 ## Implementation Steps
 
