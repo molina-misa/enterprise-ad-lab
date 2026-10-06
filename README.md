@@ -54,6 +54,11 @@ The objectives of this project were to:
 
 ---
 
+## Cloud Integrations 
+- [Azure Entra ID + Arc Gateway](./cloud-integrations/README.md)
+
+---
+
 ## Network Topology
 
 ### Internal Network
